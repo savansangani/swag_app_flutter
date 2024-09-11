@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">702216802298-9ukid5p1hm2h89qr87bpgbpcmgn53jmu.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">702216802298</string>
+    <string name="google_api_key" translatable="false">AIzaSyDKqGvNAlGY9os7LEYSVbFakR78tfTEsUI</string>
+    <string name="google_app_id" translatable="false">1:702216802298:android:c9f1ba7cfb5ff3ed3f1e43</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDKqGvNAlGY9os7LEYSVbFakR78tfTEsUI</string>
+    <string name="google_storage_bucket" translatable="false">swag-app-20110.appspot.com</string>
+    <string name="project_id" translatable="false">swag-app-20110</string>
+</resources>

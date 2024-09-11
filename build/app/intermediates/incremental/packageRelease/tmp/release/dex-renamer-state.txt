@@ -1,0 +1,4 @@
+#Mon Sep 02 19:45:03 IST 2024
+base.0=/Users/savansangani/development/Gravity Infoway/swag_app_flutter/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

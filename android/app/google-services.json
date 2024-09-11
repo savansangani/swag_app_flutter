@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "702216802298",
+    "project_id": "swag-app-20110",
+    "storage_bucket": "swag-app-20110.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702216802298:android:c9f1ba7cfb5ff3ed3f1e43",
+        "android_client_info": {
+          "package_name": "com.swag.app.swag_app_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702216802298-9ukid5p1hm2h89qr87bpgbpcmgn53jmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKqGvNAlGY9os7LEYSVbFakR78tfTEsUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702216802298-9ukid5p1hm2h89qr87bpgbpcmgn53jmu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "702216802298-bcrvn6i14vuptv92oft51fosug3jbr2c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.swag.app.swagAppFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
